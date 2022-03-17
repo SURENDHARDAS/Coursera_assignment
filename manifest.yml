@@ -1,0 +1,4 @@
+applications:
+    - name:index1
+      random-route: true
+      memory:128m
